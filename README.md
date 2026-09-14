@@ -1,7 +1,5 @@
 ## Hello there! 👋
 
-If you're looking for Thiago Island or problem solver, you're in the right place!
-
 <!--
 **ThiagoIsland/ThiagoIsland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
